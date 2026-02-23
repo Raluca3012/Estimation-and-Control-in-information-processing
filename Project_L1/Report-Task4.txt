@@ -1,0 +1,16 @@
+1. what  is the difference between true state and observation?
+True state represents the exact, real value of the system, following the system model: x(i+1) = x(i) + 1. It contains no noise or measurement error.
+The observation is the measured value: y(i) = x(i) + noise. The difference between them is the measurement error.
+
+2. How does estimation reduce noise?
+The moving average reduces noise by averaging several measurements.
+Since the noise has zero mean, positive and negative fluctuations cancel out.
+Larger window -> smoother estimate.
+
+3. How does changing the noise level affect estimation?
+Higher noise -> observations are more scattered -> estimation becomes less accurate.
+More noise requires a larger window to smooth it.
+
+4. How does the window size affect the result?
+Small window -> fast response, but noisier estimate.
+Large window -> smoother estimate, but introduces delay (lag).
