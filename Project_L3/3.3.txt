@@ -1,0 +1,9 @@
+Expectation (Mean) Analysis
+
+The data was generated from a Uniform(0,1) distribution. 
+The theoretical mean of this distribution is 0.5.
+After computing the sample mean, we observed that it is close to 0.5, but not exactly equal. 
+This difference is normal and is caused by the randomness of the generated sample.
+As the number of samples increases, the sample mean becomes closer to the theoretical mean. 
+This is explained by the Law of Large Numbers.
+In conclusion, the experiment shows that the sample mean is a good estimator of the expected value.

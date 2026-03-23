@@ -1,0 +1,8 @@
+Gaussian Distribution Analysis
+
+The histogram shows a bell-shaped curve, which is characteristic of a normal distribution. 
+Most values are concentrated around the mean (0), and fewer values appear as we move away from it.
+We compared this with a Uniform(0,1) distribution. 
+Unlike the Gaussian distribution, the uniform distribution is flat, meaning all values have equal probability.
+The Gaussian distribution shows clustering around the mean, while the uniform distribution spreads values evenly across the interval.
+This comparison highlights the difference between concentrated and evenly distributed data.

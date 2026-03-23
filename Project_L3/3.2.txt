@@ -1,0 +1,7 @@
+Interpretation of distribution
+
+From the histogram, we can observe that the values are spread evenly between 0 and 1. 
+The shape of the histogram is approximately flat, which is expected for a uniform distribution.
+This means that every value in the interval [0,1] has roughly the same probability of occurring. 
+There are small differences between the bars, but this is normal due to randomness and the limited number of samples.
+If we increase the number of generated values, the histogram would become more uniform and closer to the ideal theoretical shape.

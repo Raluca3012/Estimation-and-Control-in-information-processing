@@ -1,0 +1,7 @@
+Effect of Variance
+
+When the variance is small, the values are concentrated close to the mean, so the histogram looks narrower and taller.
+When the variance is larger, the values are more spread out, so the histogram becomes wider and flatter.
+This shows that variance controls the spread of the distribution.
+A higher variance means greater uncertainty, because the values can deviate more from the mean.
+In conclusion, the variance has a strong effect on the shape of a Gaussian distribution and on the level of uncertainty in the data.

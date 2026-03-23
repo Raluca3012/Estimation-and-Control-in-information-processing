@@ -1,0 +1,9 @@
+Variance Analysis
+
+Variance measures how spread out the values are around the mean. 
+A small variance means the values are close to the mean, while a larger variance means they are more spread out.
+For the Uniform(0,1) distribution, the theoretical variance is approximately 0.083. 
+The computed variance is close to this value, but not exactly the same due to randomness.
+We also compared two datasets with different ranges. 
+The dataset with a larger interval had a higher variance, which shows that the spread of the data increases with the range.
+In conclusion, variance is a useful measure to understand how much the data varies around the mean.

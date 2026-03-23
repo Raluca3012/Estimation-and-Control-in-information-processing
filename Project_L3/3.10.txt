@@ -1,0 +1,7 @@
+Conditional Probability
+
+In this task, we simulated two events using random dice rolls.
+Event A was defined as getting an even number, and event B was defined as getting a number greater than or equal to 4.
+We estimated the conditional probability P(A|B) from the generated data. This probability tells us how likely event A is, given that event B has already happened.
+The result is close to 2/3, because if we know that the value is in the set {4, 5, 6}, then the even values are {4, 6}, which are two cases out of three.
+In conclusion, conditional probability measures the probability of one event under the condition that another event is already known to occur.

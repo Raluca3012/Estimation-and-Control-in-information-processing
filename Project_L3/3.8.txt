@@ -1,0 +1,8 @@
+Estimation of True Value
+
+The true value was set to x = 10, and the measurements were generated using the model y = x + noise.
+We computed the average of the measurements and used it as an estimate of the true value. 
+The estimated value is close to 10, but not exactly equal due to the presence of noise.
+The difference between the estimated value and the true value is called the estimation error. 
+This error is small and decreases as the number of measurements increases.
+In conclusion, averaging noisy measurements provides a good estimate of the true value.

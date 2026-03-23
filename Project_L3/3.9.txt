@@ -1,0 +1,6 @@
+Covariance Analysis
+
+The second variable was defined as Y = 2X + noise, which creates a linear relationship between X and Y.
+We computed the covariance between the two variables. The result is positive, which means that when X increases, Y also tends to increase.
+The scatter plot shows a clear upward trend, confirming the positive relationship between the variables.
+In conclusion, covariance measures how two variables change together. A positive covariance indicates a direct relationship between them.
